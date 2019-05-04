@@ -1,0 +1,1 @@
+final String FINACE = 'https://api.hgbrasil.com/finance?format=json&key=d9d47354';
